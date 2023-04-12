@@ -1,5 +1,7 @@
-header{
+.cabeçalho {
     background-color: rgb(18, 196, 77);
+    display: flex;
+    justify-content: space-around;
 }
 body{
     background-color: rgb(160, 193, 223);
