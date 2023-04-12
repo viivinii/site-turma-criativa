@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.cabeçalho {
+.cabeçalho-lista {
     background-color: rgb(18, 196, 77);
     display: flex;
     justify-content: space-around;
@@ -13,10 +13,10 @@
 body{
     background-color: rgb(160, 193, 223);
 }
-.cabeçalho-imagem{
+.cabeçalho-imagem {
     width: 20%;
 }
-.cabeçalho-lista{
+.cabeçalho-lista {
     display: inline-block;
     margin: 0 16px;
 }
