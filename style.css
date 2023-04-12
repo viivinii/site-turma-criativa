@@ -4,4 +4,6 @@ header{
 body{
     background-color: rgb(160, 193, 223);
 }
-text-align-center
+.cabeçalho-imagem{
+    width: 20%;
+}
